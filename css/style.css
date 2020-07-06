@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+html {
+    background-image: url("../img/background.jpg");
+}
+
+
+#köszönés {
+    margin-top: 50px;
+    color: black;
+    font-family: "Bangers";
+    font-size: 48px;
+    text-align: center;
+}
+
+
+h3 {
+    color: black;
+    font-family: "Oswald";
+    margin: 300px;
+    padding: 100px;
+    text-align: center;
+    word-spacing: 100px;
+   
+}
+
+h4 {
+    color: black;
+    font-family: "Oswald";
+    margin: 200px;
+    padding: 50px;
+    text-align: left;
+   
+}
+
+#szabályzat {
+    border: solid;
+    font-size: 30px;
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+    color: black;
+    background-color: chartreuse; 
+}
+
+
+#discord {
+    border: solid;
+    font-size: 30px;
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+    color: black;
+    background-color: #7289da;
+}
+
+
+#jelentkezés {
+    border: solid;
+    font-size: 30px;
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+    color: black;
+    background-color: chartreuse;  
+}
+
+#szerverszabályzatcim {
+    margin-top: 50px;
+    color: black;
+    font-family: "Bangers";
+    font-size: 48px;
+    text-align: center;
+}
+
+#discordszabályzat {
+    font-size: 36px;
+    color: black;
+    font-family: "Oswald";
+    margin: 100px;
+    border: solid;
+    border-radius: 20px;
+    margin-right: 700px;
+    background-color: #7289daa8;
+    padding: 20px;
+    text-align: justify ;
+}
+
+p {
+    font-size: 24px;
+    text-align: justify;
+    color: orange;
+    font-family: "Oswald";
+    margin: 100px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 20px;
+    word-spacing: 10px;
+    line-height: 50px;
+}
+
+#szerverszabályzat {
+    font-size: 36px;
+    color: black;
+    font-family: "Oswald";
+    margin: 100px;
+    border: solid;
+    border-radius: 20px;
+    margin-right: 700px;
+    background-color: #ff9900;
+    padding: 20px;
+    text-align: left;
+}
+
+#vissza {
+    border: solid;
+    font-size: 24px;
+    padding: 20px 100px 20px 100px;
+    border-radius: 20px;
+    color: black;
+    background-color: chartreuse; 
+}
+
+img {
+    width: 5px;
+}

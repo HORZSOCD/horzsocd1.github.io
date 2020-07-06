@@ -1,0 +1,2 @@
+# goodlife.github.io
+tesztszerver
